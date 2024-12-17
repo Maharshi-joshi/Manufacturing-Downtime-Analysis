@@ -28,9 +28,7 @@ The analysis is based on the following datasets:
 
 ### **1. Line Efficiency**
 - **Calculation**:  
-   \[
-   \text{Efficiency} = \frac{\text{Total Minimum Time}}{\text{Total Actual Time}}
-   \]  
+  **Efficiency** = Total Minimum Time / Total Actual Time
 - The total actual time was derived from batch durations, and the total minimum time was taken from product requirements.
 
 ---
